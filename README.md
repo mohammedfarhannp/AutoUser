@@ -8,7 +8,7 @@ Run as root or privileged user.
 
 ## Validity
 ### Valid username rules
-Only lowercase letters.
+Only lowercase letters.<br>
 Username length 4 letters to 20 letters.
 
 ### Valid password rules
