@@ -8,15 +8,15 @@ Run as root or privileged user.
 
 ## Validity
 Valid username rules
-   -> Only lowercase letters
-   -> username length 4 letters to 20 letters
+-> Only lowercase letters
+-> username length 4 letters to 20 letters
 
 Valid password rules
-   -> password length 6 letters to 18 letters
-   -> password must contain atleast one number
-   -> password must contain atleast one upper case letter
-   -> password must contain atleast one lower case letter
-   -> password must contain atleast one special character
+-> password length 6 letters to 18 letters
+-> password must contain atleast one number
+-> password must contain atleast one upper case letter
+-> password must contain atleast one lower case letter
+-> password must contain atleast one special character
 
 ## Application
 
