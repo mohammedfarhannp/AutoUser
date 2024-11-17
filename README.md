@@ -7,11 +7,11 @@ Use of REGEX to check validity of username and password using **re** module.
 Run as root or privileged user.
 
 ## Validity
-Valid username rules
+Valid username rules<br>
    -> Only lowercase letters.<br>
    -> Username length 4 letters to 20 letters.<br>
 
-Valid password rules
+Valid password rules<br>
    -> Password length 6 letters to 18 letters.<br>
    -> Password must contain atleast one number.<br>
    -> Password must contain atleast one upper case letter.<br>
