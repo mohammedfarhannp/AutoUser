@@ -20,4 +20,5 @@ Valid password rules
 
 ## Application
 
-![Application](http://github.com/mohammedfarhannp/AutoUser/blob/master/imgs/ScreenShot.png)
+![Application](https://github.com/mohammedfarhannp/AutoUser/blob/master/imgs/ScreenShot.png)
+
